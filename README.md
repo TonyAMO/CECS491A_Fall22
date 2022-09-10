@@ -16,3 +16,4 @@ TODO:
 | --- | --- | --- | --- | --- | --- |
 | Food on Campus | [Arash Saifhashemi](https://www.linkedin.com/in/ourarash/)| Find free food on campus! | [YouTube](https://www.youtube.com/arisaif)|[Github](https://github.com/ourarash) | [Link to slides (e.g. in google drive)](http://myslides)|
 | Food on Campus | [Arash Saifhashemi](https://www.linkedin.com/in/ourarash/)| Find free food on campus! | [YouTube](https://www.youtube.com/arisaif)|[Github](https://github.com/ourarash) | [Link to slides (e.g. in google drive)](http://myslides)|
+|Video Editor| Tony Ojeda, Fernando Duarte | Basic video editing for beginners ||[Github Link](https://github.com/TonyAMO/VideoEditor)||
